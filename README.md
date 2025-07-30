@@ -1,8 +1,6 @@
 # API de Predição de Churn com FastAPI e Docker 🚀
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Python Version](https://img.shields.io/badge/python-3.9-blue)
-![Framework](https://img.shields.io/badge/framework-FastAPI-0.95.0)
 ![Dockerized](https://img.shields.io/badge/docker-ready-blue?logo=docker)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 
