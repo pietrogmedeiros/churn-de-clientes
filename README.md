@@ -3,7 +3,7 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Dockerized](https://img.shields.io/badge/docker-ready-blue?logo=docker)
 ![Python Version](https://img.shields.io/badge/python-3.9-blue)
-![Framework](https://img.shields.io/badge/framework-FastAPI-0.95.0)
+
 
 ## 📋 Visão Geral do Projeto
 
