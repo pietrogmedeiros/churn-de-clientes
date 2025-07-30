@@ -146,5 +146,4 @@ curl -X 'POST' \
 ## 👨‍💻 Autor
 
 -   **Pietro Medeiros**
--   **GitHub:** [@seu-github](https://github.com/pietrogmedeiros)
--   **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/pietro-medeiros-770bba162/)
+-   **LinkedIn:** [Meu Linkedin](https://www.linkedin.com/in/pietro-medeiros-770bba162/)
